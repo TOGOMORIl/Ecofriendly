@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ecofriendly-dev-b6cf5-authRole",
+      "UnauthRoleArn": "arn:aws:iam::980921730659:role/amplify-ecofriendly-dev-b6cf5-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::980921730659:role/amplify-ecofriendly-dev-b6cf5-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ecofriendly-dev-b6cf5-deployment",
+      "UnauthRoleName": "amplify-ecofriendly-dev-b6cf5-unauthRole",
+      "StackName": "amplify-ecofriendly-dev-b6cf5",
+      "StackId": "arn:aws:cloudformation:us-east-1:980921730659:stack/amplify-ecofriendly-dev-b6cf5/9e910460-c29e-11ef-bab0-0e984e446999",
+      "AmplifyAppId": "d1fxvuqmspcn88"
+    },
+    "categories": {
+      "auth": {
+        "ecofriendlya9a14765": {}
+      }
+    }
+  }
+}
